@@ -1,0 +1,1 @@
+Te dejamos definidos los procedimientos `CargarBateria` y `PrenderReactor`. :wink:
