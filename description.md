@@ -1,0 +1,3 @@
+¿Sabés todos los usos del maíz?  Además de servir para el consumo humano y animal, también sirve para crear bioetanol. ¿BioQUÉ?  Es un tipo de combustible ecológico  creado a partir de vegetales, y no del petróleo, que cuida el medio ambiente . El lugar donde esta magia  (esta ciencia, en realidad ) ocurre, es en los laboratorios. ¡Veamos en qué podemos ayudar!
+
+ Para hacer estos ejercicios necesitás tener los conocimientos de:
