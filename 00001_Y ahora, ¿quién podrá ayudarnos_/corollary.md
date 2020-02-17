@@ -1,0 +1,1 @@
+¡Excelente! :clap: Arreglaste el programa para cargar una batería pero en el medio nos dimos cuenta de algunas cosas que podrían estar mejor :sweat_smile:. ¡Empecemos por darle un nombre a lo que hicimos! :writing_hand:

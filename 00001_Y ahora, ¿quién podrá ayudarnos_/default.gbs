@@ -1,0 +1,7 @@
+program{
+  repeat(4){
+    Mover(Verde)
+  }
+  Poner(Este)
+  Mover(Norte)
+}
