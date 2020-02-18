@@ -1,3 +1,5 @@
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-laboratorio-secundaria/master/assets/attires/config_1582038818015.json"></gs-attire>
+
 ¡Llegó el momento! Hay que poner a funcionar el laboratorio para que las y los investigadores puedan trabajar. ¡Prendamos el reactor! :raised_hands:
 
 <gs-board>
