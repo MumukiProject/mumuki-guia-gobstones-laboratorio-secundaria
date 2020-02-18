@@ -1,0 +1,3 @@
+function bateriaNoEstaLlena(){
+  return (nroBolita(Verde) /= 4)
+}
