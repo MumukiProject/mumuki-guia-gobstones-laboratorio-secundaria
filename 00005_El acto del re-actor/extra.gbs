@@ -1,0 +1,22 @@
+procedure CargarBateria(){
+  while(not bateriaLlena()){
+    Poner(Verde)
+  }
+}
+
+function bateriaCargada(nro){
+  repeat(nro){
+    Mover(Oeste)
+  }
+  return (bateriaLlena())
+}
+
+function bateriaLlena(){
+  return (nroBolitas(Verde) == 4)
+}
+
+procedure PrenderReactor(){
+  if (bateriaCargada(1) && bateriaCargada(2) && bateriaCargada(3) && bateriaCargada(4)){
+    Poner(Azul)
+  }
+}
